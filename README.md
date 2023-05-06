@@ -1,8 +1,8 @@
 <!-- Header -->
 # Hi, I'm Eray 👋
 
-<!-- Banner Image -->
-![Banner](https://github.com/exampleuser/exampleuser/blob/main/banner.png?raw=true)
+<!-- Ba![y](https://user-images.githubusercontent.com/125488259/236630046-44468649-2871-4e92-ac9e-a5adc22c0911.png)
+nner Image -->
 
 <!-- Introduction -->
 ## About Me
