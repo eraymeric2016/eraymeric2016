@@ -10,7 +10,7 @@
 - 🎓 I'm currently studying to become an SDET.
 - 🌟 I love design, technology, and art.
 - 🌱 I'm currently learning [Java](https://www.java.com/).
-- 💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/eray/) if you want to connect.
+- 💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/eray-meri%C3%A7-26a0a6234) if you want to connect.
 
 <!-- Projects -->
 ## My Projects
